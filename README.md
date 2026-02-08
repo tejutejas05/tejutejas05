@@ -1,16 +1,70 @@
-## Hi there 👋
+# About Me:
+Hi, I’m **Tejas R** 👋  
+An **ML Engineer & Data Science student** passionate about **Artificial Intelligence, Machine Learning, and real-world problem solving**.  
+<br>
+I enjoy building end-to-end ML systems, writing clean and efficient Python code, and strengthening my **DSA fundamentals** while exploring how things work under the hood.
 
-<!--
-**tejutejas05/tejutejas05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="800" height="400" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejutejas05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+**ML Engineer** | **Data Science Student** | **AI Enthusiast**  
+📍 India | 🕒 IST (UTC+5:30)
+
+---
+
+## 🚀 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tejutejas05&theme=rose&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tejutejas05&theme=rose&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejutejas05&theme=rose&hide_border=true&layout=compact)
+
+---
+
+## 🧠 Skills Highlight:
+- ✔️ Machine Learning & Data Science  
+- ✔️ Python Programming  
+- ✔️ Strong in Data Structures & Algorithms (DSA)  
+- ✔️ Model building, evaluation & deployment  
+- ✔️ End-to-end ML project development  
+
+---
+
+## 🤝 Connect with Me:
+- 📧 Email: **tejasprof05@gmail.com**
+- 💼 LinkedIn: [Tejas R](https://www.linkedin.com/in/tejas-r-ab89a92a1)
+- 🌐 GitHub: [github.com/tejutejas05](https://github.com/tejutejas05)
+- 🧑‍💻 Portfolio: *(Coming soon)*
+
+---
+
+⭐ *Always learning, building, and pushing my limits in AI & ML.*
