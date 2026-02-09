@@ -1,12 +1,12 @@
 # About Me:
-Hi, I’m **Tejas R** 👋  
+<h1 align=center>Hi, I’m Tejas R 👋 </h1> 
 An **ML Engineer & Data Science student** passionate about **Artificial Intelligence, Machine Learning, and real-world problem solving**.  
 <br>
 I enjoy building end-to-end ML systems, writing clean and efficient Python code, and strengthening my **DSA fundamentals** while exploring how things work under the hood.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="800" height="400" />
-</p>
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"
+       width="100%"
+       style="border-radius:50%; margin:20px 0;" />
 
 
 
