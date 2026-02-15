@@ -2,7 +2,7 @@
 <h1 align=center>Hi, I’m Tejas R 👋 </h1> 
 <h2>An ML Engineer & Data Science student passionate about Artificial Intelligence, Machine Learning, and real-world problem solving.</h2>  
 <br>
-I enjoy building end-to-end ML systems, writing clean and efficient Python code, and strengthening my **DSA fundamentals** while exploring how things work under the hood.
+I enjoy building end-to-end <bold>ML systems</bold>, writing clean and efficient Python code, and strengthening my DSA fundamentals while exploring how things work under the hood.
 
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"
        width="100%"
