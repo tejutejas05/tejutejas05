@@ -40,6 +40,7 @@ I’m also curious about how things work under the hood — whether it’s syste
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%233F4F75.svg?style=for-the-badge&logo=Django&logoColor=white)
 
 ---
 
