@@ -64,7 +64,6 @@ I’m also curious about how things work under the hood — whether it’s syste
 - 📧 Email: **tejasprof05@gmail.com**
 - 💼 LinkedIn: [Tejas R](https://www.linkedin.com/in/tejas-r-ab89a92a1)
 - 🌐 GitHub: [github.com/tejutejas05](https://github.com/tejutejas05)
-- 🧑‍💻 Portfolio: *(Coming soon)*
 
 ---
 
