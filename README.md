@@ -5,7 +5,7 @@
 I enjoy building end-to-end machine learning systems, from data preprocessing to deployment, because bringing a complete pipeline to life is far more satisfying than stopping at the model. I focus on writing clean, efficient Python code (the kind my future self appreciates) while strengthening my DSA fundamentals to build optimized and scalable solutions.
 
 I’m also curious about how things work under the hood — whether it’s system design, model behavior, or debugging why one extra line breaks everything. In short, I like making machines learn, code run smoothly, and bugs disappear… eventually 😄
-#background img 
+ 
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"
        width="100%"
        style="border-radius:50%; margin:20px 0;" />
