@@ -1,5 +1,5 @@
 # About Me:
-<h1 align=center>Hi, I’m Tejas R 👋 </h1> 
+<h1 align=center>Hi, I’m Tejas R  </h1> 
 <h2>An ML Engineer & Data Science student passionate about Artificial Intelligence, Machine Learning, and real-world problem solving.</h2>  
 <br>
 I enjoy building end-to-end machine learning systems, from data preprocessing to deployment, because bringing a complete pipeline to life is far more satisfying than stopping at the model. I focus on writing clean, efficient Python code (the kind my future self appreciates) while strengthening my DSA fundamentals to build optimized and scalable solutions.
